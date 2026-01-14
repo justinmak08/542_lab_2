@@ -10,5 +10,8 @@
   },
   "about.qmd": {
     "about.html": "86a6e345"
+  },
+  "posts/the-digital-coach/index.qmd": {
+    "index.html": "dc2520c7"
   }
 }

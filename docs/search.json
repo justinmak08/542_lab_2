@@ -23,15 +23,15 @@
   {
     "objectID": "posts/the-digital-coach/index.html",
     "href": "posts/the-digital-coach/index.html",
-    "title": "Post With Code",
+    "title": "The Digital Coach: Using Data Science to Help Make Better Team Decisions",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "American football in the NFL is not like any other sport. The amount of planning and preparation involved to compete at the highest level sets it apart. While sports like soccer or hockey have continuous play and flow without pause, football is unique because of its stop-start nature. Each game is made up of discrete events.\nBecause of the sport’s unique situation, there is a massive potential to utilize data science to significantly increase the success of an NFL team. In the data science world, we can think of each play in football history to be its own data point. The power is in combining these data points.\nFor decades, coaches and coordinates made decisions based on their own intuition. A coach might be faced with deciding between whether to punt the ball or go for it on 4th down. In the past, they might glance over at their defense and say, “They look tired, let’s punt.”\nWith data science, we could use predictive modeling, looking at countless of similar situations from the past to predict what is most likely to happen in the future. With data like time left on the clock, the current score, the weather, and the specific strengths and weaknesses of both teams, a computer could instantly tell the coach “There is a 62% chance of winning the game if you go for it on 4th down.”\nData science can not only give real-time game insights, it can also help improve the physical health of the players. In today’s NFL, players wear RFID chips in their body protection, collecting data like location, speed and acceleration. If a data analysis has shown that a player has gone through more physical impacts than normal, the team might want to focus more on their post-game conditioning.\nFurthermore, If predictive modeling has determined that a player is at risk of injury from trends like a decreasing top speed in games or uneven deceleration forces, the team might want to focus on avoiding a knee injury by adjusting their training and play time. Data science can alert training staff of a player before an injury happens.\nIn the competitive world of the NFL, the margin of error is thin, and data science has the potential to push teams slightly closer to the top. It does not replace coaches, coordinates, or staff. It reveals patterns and probability that help teams make better decisions, win games, and keep players healthy."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Lab 2 Blog",
     "section": "",
-    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 14, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 14, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 11, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "The Digital Coach: Using Data Science to Help Make Better Team Decisions\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 14, 2026\n\n\nJustin Mak\n\n\n\n\n\nNo matching items"
   }
 ]

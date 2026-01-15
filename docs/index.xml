@@ -12,30 +12,8 @@
 <generator>quarto-1.8.26</generator>
 <lastBuildDate>Wed, 14 Jan 2026 08:00:00 GMT</lastBuildDate>
 <item>
-  <title>Post With Code</title>
-  <dc:creator>Harlow Malloc</dc:creator>
-  <link>https://your-website-url.example.com/posts/post-with-code/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>This is a post with executable code.</p>
-
-
-
- ]]></description>
-  <category>news</category>
-  <category>code</category>
-  <category>analysis</category>
-  <guid>https://your-website-url.example.com/posts/post-with-code/</guid>
-  <pubDate>Wed, 14 Jan 2026 08:00:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Post With Code</title>
-  <dc:creator>Harlow Malloc</dc:creator>
+  <title>The Digital Coach: Using Data Science to Help Make Better Team Decisions</title>
+  <dc:creator>Justin Mak</dc:creator>
   <link>https://your-website-url.example.com/posts/the-digital-coach/</link>
   <description><![CDATA[ 
 
@@ -43,7 +21,13 @@
 
 
 
-<p>This is a post with executable code.</p>
+<p>American football in the NFL is not like any other sport. The amount of planning and preparation involved to compete at the highest level sets it apart. While sports like soccer or hockey have continuous play and flow without pause, football is unique because of its stop-start nature. Each game is made up of discrete events.</p>
+<p>Because of the sport’s unique situation, there is a massive potential to utilize data science to significantly increase the success of an NFL team. In the data science world, we can think of each play in football history to be its own data point. The power is in combining these data points.</p>
+<p>For decades, coaches and coordinates made decisions based on their own intuition. A coach might be faced with deciding between whether to punt the ball or go for it on 4th down. In the past, they might glance over at their defense and say, “They look tired, let’s punt.”</p>
+<p>With data science, we could use <strong>predictive modeling</strong>, looking at countless of similar situations from the past to predict what is most likely to happen in the future. With data like time left on the clock, the current score, the weather, and the specific strengths and weaknesses of both teams, a computer could instantly tell the coach “There is a 62% chance of winning the game if you go for it on 4th down.”</p>
+<p>Data science can not only give real-time game insights, it can also help improve the physical health of the players. In today’s NFL, players wear RFID chips in their body protection, collecting data like location, speed and acceleration. If a data analysis has shown that a player has gone through more physical impacts than normal, the team might want to focus more on their post-game conditioning.</p>
+<p>Furthermore, If predictive modeling has determined that a player is at risk of injury from trends like a decreasing top speed in games or uneven deceleration forces, the team might want to focus on avoiding a knee injury by adjusting their training and play time. Data science can alert training staff of a player <em>before</em> an injury happens.</p>
+<p>In the competitive world of the NFL, the margin of error is thin, and data science has the potential to push teams slightly closer to the top. It does not replace coaches, coordinates, or staff. It reveals patterns and probability that help teams make better decisions, win games, and keep players healthy.</p>
 
 
 
@@ -54,27 +38,6 @@
   <guid>https://your-website-url.example.com/posts/the-digital-coach/</guid>
   <pubDate>Wed, 14 Jan 2026 08:00:00 GMT</pubDate>
   <media:content url="https://your-website-url.example.com/posts/the-digital-coach/image.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Welcome To My Blog</title>
-  <dc:creator>Tristan O&#39;Malley</dc:creator>
-  <link>https://your-website-url.example.com/posts/welcome/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>This is the first post in a Quarto blog. Welcome!</p>
-<p><img src="https://your-website-url.example.com/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
-<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
-
-
-
- ]]></description>
-  <category>news</category>
-  <guid>https://your-website-url.example.com/posts/welcome/</guid>
-  <pubDate>Sun, 11 Jan 2026 08:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
